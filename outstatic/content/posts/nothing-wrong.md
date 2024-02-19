@@ -1,11 +1,11 @@
 ---
-title: 'Nothing is wrong. Everything is perfect'
+title: 'Nothing is wrong. Everything is perfect!'
 status: 'published'
 author:
   name: 'Andre Vitorio'
 slug: 'nothing-wrong'
 description: 'One more day, one more joy. I feel blessed.'
-coverImage: '/images/industrial-pattern.png'
+tags: ''
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
