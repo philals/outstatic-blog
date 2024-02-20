@@ -1,6 +1,6 @@
 {
-  "commit": "ddd8edbdca01b57af99d22e9a4346d0966d93a44",
-  "generated": "2024-02-19T17:17:46.220Z",
+  "commit": "bafe2bfe681623edb489701bd8411386b35a6720",
+  "generated": "2024-02-20T20:52:02.965Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,26 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect!"
+    },
+    {
+      "__outstatic": {
+        "commit": "bafe2bfe681623edb489701bd8411386b35a6720",
+        "hash": "147092852",
+        "path": "outstatic/content/posts/nwe-post.md"
+      },
+      "author": {
+        "name": "Phil Alsford",
+        "picture": "https://avatars.githubusercontent.com/u/8849355?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-20T22:09:49.037Z",
+      "slug": "nwe-post",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Nwe post"
     }
   ]
 }
