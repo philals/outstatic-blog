@@ -1,6 +1,6 @@
 {
   "commit": "e9b0d9f609baee6542696650138efef50387237e",
-  "generated": "2024-02-27T23:00:59.425Z",
+  "generated": "2024-02-27T23:01:02.604Z",
   "metadata": [
     {
       "__outstatic": {
@@ -104,23 +104,22 @@
     },
     {
       "__outstatic": {
-        "commit": "bafe2bfe681623edb489701bd8411386b35a6720",
-        "hash": "147092852",
-        "path": "outstatic/content/posts/nwe-post.md"
+        "commit": "8ab6572b81c6e5221a320cca2295cb3c683897ee",
+        "hash": "1232156273",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
       },
       "author": {
-        "name": "Phil Alsford",
-        "picture": "https://avatars.githubusercontent.com/u/8849355?v=4"
+        "name": "Naval Ravikant"
       },
       "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-02-20T22:09:49.037Z",
-      "slug": "nwe-post",
-      "status": "draft",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
       "tags": [
       ],
-      "title": "Nwe post"
+      "title": "If you want to make the wrong decision, ask everyone!"
     },
     {
       "__outstatic": {
