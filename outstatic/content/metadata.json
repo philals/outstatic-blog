@@ -1,25 +1,7 @@
 {
-  "commit": "8ab6572b81c6e5221a320cca2295cb3c683897ee",
-  "generated": "2024-02-25T23:51:22.604Z",
+  "commit": "c62ddd5044d4ac69314a14f73e6c59046b4ce18e",
+  "generated": "2024-02-27T23:00:42.778Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
@@ -158,6 +140,24 @@
       "tags": [
       ],
       "title": "If you want to make the wrong decision, ask everyone!"
+    },
+    {
+      "__outstatic": {
+        "commit": "c62ddd5044d4ac69314a14f73e6c59046b4ce18e",
+        "hash": "1878023767",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
