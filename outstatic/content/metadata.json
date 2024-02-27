@@ -1,6 +1,6 @@
 {
-  "commit": "e9b0d9f609baee6542696650138efef50387237e",
-  "generated": "2024-02-27T23:01:05.724Z",
+  "commit": "57c76cf89f278c3f851345e2d014960826c998c6",
+  "generated": "2024-02-27T23:17:39.439Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,23 +18,6 @@
       "slug": "couple-pizza",
       "status": "published",
       "title": "Couple Pizza"
-    },
-    {
-      "__outstatic": {
-        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
-        "hash": "1076515129",
-        "path": "/outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": " 🧸 Bearbnb"
     },
     {
       "__outstatic": {
@@ -140,6 +123,23 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "57c76cf89f278c3f851345e2d014960826c998c6",
+        "hash": "2313870756",
+        "path": "outstatic/content/projects/bearbnb.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "projects",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Amazing rental locations for your teddy bear.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "bearbnb",
+      "status": "published",
+      "title": "Firewood Shed"
     }
   ]
 }
