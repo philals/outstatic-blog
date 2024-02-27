@@ -1,6 +1,6 @@
 {
-  "commit": "57c76cf89f278c3f851345e2d014960826c998c6",
-  "generated": "2024-02-27T23:17:39.439Z",
+  "commit": "abc8cd8ac49fc11995be39ee6acc31416b305e0e",
+  "generated": "2024-02-27T23:21:52.723Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,36 +36,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "2966436321",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic!"
     },
     {
       "__outstatic": {
@@ -140,6 +110,28 @@
       "slug": "bearbnb",
       "status": "published",
       "title": "Firewood Shed"
+    },
+    {
+      "__outstatic": {
+        "commit": "abc8cd8ac49fc11995be39ee6acc31416b305e0e",
+        "hash": "2506894468",
+        "path": "outstatic/content/posts/firewood-shed.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "description": "",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "firewood-shed",
+      "status": "published",
+      "tags": [
+        {
+          "label": "shed",
+          "value": "shed"
+        }
+      ],
+      "title": "Firewood shed"
     }
   ]
 }
