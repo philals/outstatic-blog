@@ -1,6 +1,6 @@
 {
   "commit": "e9b0d9f609baee6542696650138efef50387237e",
-  "generated": "2024-02-27T23:01:02.604Z",
+  "generated": "2024-02-27T23:01:05.724Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,21 +86,23 @@
     },
     {
       "__outstatic": {
-        "commit": "ddd8edbdca01b57af99d22e9a4346d0966d93a44",
-        "hash": "426102385",
-        "path": "outstatic/content/posts/nothing-wrong.md"
+        "commit": "bafe2bfe681623edb489701bd8411386b35a6720",
+        "hash": "147092852",
+        "path": "outstatic/content/posts/nwe-post.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Phil Alsford",
+        "picture": "https://avatars.githubusercontent.com/u/8849355?v=4"
       },
       "collection": "posts",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-20T22:09:49.037Z",
+      "slug": "nwe-post",
+      "status": "draft",
       "tags": [
       ],
-      "title": "Nothing is wrong. Everything is perfect!"
+      "title": "Nwe post"
     },
     {
       "__outstatic": {
