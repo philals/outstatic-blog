@@ -1,66 +1,32 @@
 {
-  "commit": "266874f51bf1b6956b127d8e8585a40ab28704a1",
-  "generated": "2024-02-29T08:57:01.764Z",
+  "commit": "92f63efcb9e7411ecfd1c16e1e0f85ac92f1511b",
+  "generated": "Thu, 29 Feb 2024 09:14:31 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "/outstatic/content/projects/couple-pizza.md"
+        "commit": "64351af6b9a30888c13f552aa557eeef15a9f112",
+        "hash": "1334267366",
+        "path": "outstatic/content/posts/firewood-shed.md"
       },
       "author": {
-        "name": "Bob Marley"
-      },
-      "collection": "projects",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
-      "status": "published",
-      "title": "Couple Pizza"
-    },
-    {
-      "__outstatic": {
-        "commit": "bafe2bfe681623edb489701bd8411386b35a6720",
-        "hash": "147092852",
-        "path": "outstatic/content/posts/nwe-post.md"
-      },
-      "author": {
-        "name": "Phil Alsford",
-        "picture": "https://avatars.githubusercontent.com/u/8849355?v=4"
+        "name": ""
       },
       "collection": "posts",
-      "coverImage": "",
       "description": "",
-      "publishedAt": "2024-02-20T22:09:49.037Z",
-      "slug": "nwe-post",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "Nwe post"
-    },
-    {
-      "__outstatic": {
-        "commit": "8ab6572b81c6e5221a320cca2295cb3c683897ee",
-        "hash": "1232156273",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "firewood-shed",
       "status": "published",
       "tags": [
+        {
+          "label": "shed",
+          "value": "shed"
+        }
       ],
-      "title": "If you want to make the wrong decision, ask everyone!"
+      "title": "Firewood shed"
     },
     {
       "__outstatic": {
-        "commit": "c62ddd5044d4ac69314a14f73e6c59046b4ce18e",
+        "commit": "a3fb693f9471b53dc0780176d0c90830e9ce8cd6",
         "hash": "1878023767",
         "path": "outstatic/content/pages/home.md"
       },
@@ -75,45 +41,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "57c76cf89f278c3f851345e2d014960826c998c6",
-        "hash": "2313870756",
-        "path": "outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Firewood Shed"
-    },
-    {
-      "__outstatic": {
-        "commit": "86fe3f5ef7a36860a54c9aee73cae0425636dfc9",
-        "hash": "2506894468",
-        "path": "outstatic/content/posts/firewood-shed.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "description": "",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "firewood-shed",
-      "status": "published",
-      "tags": [
-        {
-          "label": "shed",
-          "value": "shed"
-        }
-      ],
-      "title": "Firewood shed"
     }
   ]
 }
