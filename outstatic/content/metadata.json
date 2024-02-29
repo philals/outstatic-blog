@@ -1,6 +1,6 @@
 {
-  "commit": "abc8cd8ac49fc11995be39ee6acc31416b305e0e",
-  "generated": "2024-02-27T23:21:52.723Z",
+  "commit": "86fe3f5ef7a36860a54c9aee73cae0425636dfc9",
+  "generated": "2024-02-29T08:53:52.853Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,7 +113,7 @@
     },
     {
       "__outstatic": {
-        "commit": "abc8cd8ac49fc11995be39ee6acc31416b305e0e",
+        "commit": "86fe3f5ef7a36860a54c9aee73cae0425636dfc9",
         "hash": "2506894468",
         "path": "outstatic/content/posts/firewood-shed.md"
       },
