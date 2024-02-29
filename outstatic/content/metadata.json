@@ -1,6 +1,6 @@
 {
-  "commit": "86fe3f5ef7a36860a54c9aee73cae0425636dfc9",
-  "generated": "2024-02-29T08:53:52.853Z",
+  "commit": "266874f51bf1b6956b127d8e8585a40ab28704a1",
+  "generated": "2024-02-29T08:56:51.551Z",
   "metadata": [
     {
       "__outstatic": {
@@ -93,23 +93,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "57c76cf89f278c3f851345e2d014960826c998c6",
-        "hash": "2313870756",
-        "path": "outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": "Firewood Shed"
     },
     {
       "__outstatic": {
